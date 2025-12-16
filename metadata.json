@@ -1,0 +1,5 @@
+{
+  "name": "化地瑪體測報告 - 學生體質智能分析系統",
+  "description": "基於 AI 的學生體質數據分析平台，上傳 Excel 即可生成專業運動與營養建議，並對比澳門與全國體質標準，支持批量 PDF 報告下載。",
+  "requestFramePermissions": []
+}
